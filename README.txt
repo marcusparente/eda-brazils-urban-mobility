@@ -1,0 +1,1 @@
+This Exploratory Data Analysis (EDA) aims to conduct an analysis of urban mobility in the 9 largest metropolitan regions of Brazil.

@@ -1,0 +1,28 @@
+regiao_metropolitana,ano,populacao,var
+Sao Paulo,2000,17879997,
+Sao Paulo,2010,19683975,10.08
+Sao Paulo,2022,20743587,5.38
+Rio de Janeiro,2000,11254026,
+Rio de Janeiro,2010,12245449,8.80
+Rio de Janeiro,2022,12022110,-1.82
+Belo Horizonte,2000,4358171,
+Belo Horizonte,2010,4883970,12.06
+Belo Horizonte,2022,5127694,4.99
+Brasilia,2000,3118030,
+Brasilia,2010,3910824,25.42
+Brasilia,2022,4480006,14.55
+Salvador,2000,3120303,
+Salvador,2010,3573973,14.53
+Salvador,2022,3413864,-4.48
+Fortaleza,2000,3165796,
+Fortaleza,2010,3741198,18.17
+Fortaleza,2022,3903924,4.35
+Recife,2000,3337565,
+Recife,2010,3690547,10.57
+Recife,2022,3726442,0.97
+Curitiba,2000,2813397,
+Curitiba,2010,3223836,14.58
+Curitiba,2022,3559366,10.48
+Porto Alegre,2000,3498322,
+Porto Alegre,2010,3958985,13.16
+Porto Alegre,2022,4318013,9.06

@@ -1,0 +1,10 @@
+regiao_metropolitana,tempo_locomocao,distancia_percorrida,tamanho_rede,ticket_medio,por_cento_salario
+Sao Paulo,62,7.45,260.2,264.00,18.69
+Rio de Janeiro,67,11.42,300.4,258.00,18.27
+Belo Horizonte,61,7.82,50.2,315.00,22.30
+Brasilia,58,12.41,62.7,330.00,23.37
+Salvador,54,7.1,33.9,312.00,22.73
+Fortaleza,54,6.48,28.6,270.00,19.12
+Recife,64,8.22,34.2,246.00,17.42
+Curitiba,57,8.00,78.8,360.00,25.49
+Porto Alegre,47,8.18,48.1,288.00,20.39

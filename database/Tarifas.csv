@@ -1,0 +1,82 @@
+cidade,ano,tarifa_onibus,tarifa_metro,motorizacao
+Sao Paulo,2015,3.50,3.50,552
+Sao Paulo,2016,3.80,3.80,563
+Sao Paulo,2017,3.80,3.80,576
+Sao Paulo,2018,4.00,4.00,590
+Sao Paulo,2019,4.30,4.30,605
+Sao Paulo,2020,4.40,4.40,614
+Sao Paulo,2021,4.40,4.40,620
+Sao Paulo,2022,4.40,4.40,673
+Sao Paulo,2023,4.40,4.40,
+Rio de Janeiro,2015,3.40,3.70,344
+Rio de Janeiro,2016,3.80,4.10,353
+Rio de Janeiro,2017,3.40,4.30,360
+Rio de Janeiro,2018,3.95,4.30,360
+Rio de Janeiro,2019,4.05,4.60,370
+Rio de Janeiro,2020,4.05,5.00,376
+Rio de Janeiro,2021,4.05,5.80,384
+Rio de Janeiro,2022,4.05,6.50,431
+Rio de Janeiro,2023,4.30,6.90,
+Belo Horizonte,2015,3.40,1.80,502
+Belo Horizonte,2016,3.70,1.80,517
+Belo Horizonte,2017,4.05,1.80,541
+Belo Horizonte,2018,4.50,1.80,576
+Belo Horizonte,2019,4.50,3.70,613
+Belo Horizonte,2020,4.50,4.25,616
+Belo Horizonte,2021,4.50,4.50,636
+Belo Horizonte,2022,4.50,4.50,730
+Belo Horizonte,2023,5.25,5.30,
+Brasilia,2015,4.00,4.00,446
+Brasilia,2016,4.00,4.00,451
+Brasilia,2017,5.00,5.00,456
+Brasilia,2018,5.00,5.00,474
+Brasilia,2019,5.00,5.00,485
+Brasilia,2020,5.50,5.50,491
+Brasilia,2021,5.50,5.50,498
+Brasilia,2022,5.50,5.50,541
+Brasilia,2023,5.50,5.50,
+Salvador,2015,3.00,,263
+Salvador,2016,3.30,3.30,268
+Salvador,2017,3.60,3.60,273
+Salvador,2018,3.70,3.70,291
+Salvador,2019,4.00,3.70,299
+Salvador,2020,4.20,3.90,304
+Salvador,2021,4.40,4.10,309
+Salvador,2022,4.90,4.10,370
+Salvador,2023,5.20,4.10,
+Fortaleza,2015,2.75,2.40,316
+Fortaleza,2016,2.75,3.00,325
+Fortaleza,2017,3.20,3.20,333
+Fortaleza,2018,3.40,3.40,343
+Fortaleza,2019,3.60,3.60,355
+Fortaleza,2020,3.60,3.60,362
+Fortaleza,2021,3.60,3.60,370
+Fortaleza,2022,3.90,3.60,407
+Fortaleza,2023,4.50,3.60,
+Recife,2015,3.35,1.60,297
+Recife,2016,3.85,1.60,301
+Recife,2017,4.40,1.60,307
+Recife,2018,4.40,1.60,315
+Recife,2019,4.70,3.00,323
+Recife,2020,4.70,3.40,326
+Recife,2021,5.10,4.00,330
+Recife,2022,5.60,4.25,366
+Recife,2023,4.10,4.25,
+Curitiba,2015,3.30,,628
+Curitiba,2016,3.70,,629
+Curitiba,2017,4.25,,634
+Curitiba,2018,4.25,,645
+Curitiba,2019,4.50,,661
+Curitiba,2020,4.50,,670
+Curitiba,2021,4.50,,683
+Curitiba,2022,5.50,,735
+Curitiba,2023,6.00,,
+Porto Alegre,2015,3.25,1.70,542
+Porto Alegre,2016,3.75,1.70,548
+Porto Alegre,2017,4.05,1.70,552
+Porto Alegre,2018,4.30,3.30,561
+Porto Alegre,2019,4.70,4.20,566
+Porto Alegre,2020,4.70,4.20,565
+Porto Alegre,2021,4.80,4.50,564
+Porto Alegre,2022,4.80,4.50,637
+Porto Alegre,2023,4.80,4.50,
